@@ -16,8 +16,11 @@
 - [ ] https://github.com/byoungd/English-level-up-tips-for-Chinese
 - [ ] https://github.com/mahavivo/english-wordlists
 - [ ] https://github.com/Wei-Xia/most-frequent-technology-english-words
+- [ ] https://github.com/yujiangshui/A-Programmers-Guide-to-English
 - [ ] https://github.com/YJango/ENGLISH
 - [ ] https://github.com/xiaolai/a-new-english-reading-handbook
+- [ ] https://github.com/1eez/103976
+- [ ] https://github.com/Wei-Xia/most-frequent-technology-english-words
 
 二、视频教程：
 
@@ -45,6 +48,8 @@
 
 - [ ] https://github.com
 
-## 0x04-English书籍
+## 0x04-English听读
 
-## 0x05-English老师
+## 0x05-English书籍
+
+## 0x06-English老师
