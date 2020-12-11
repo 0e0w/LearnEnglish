@@ -1,16 +1,18 @@
 # LearnEnglish
 
-本项目记录自己在学习English的过程中遇到的一些优秀内容，包括English的相关学习资源以及English的优秀项目等。尽可能的学习English，尽可能的使用English。作者：[0e0w](https://github.com/0e0w/LearnEnglish)
+This project records some of the excellent content I encountered in the process of learning English, including English related learning resources and excellent English projects. Learn English as much as possible and use English as much as possible.Author:[@0e0w](https://github.com/0e0w/LearnEnglish)
 
-本项目创建于2020年11月13日，最近一次更新时间为11月14日。
+Learning English for Faith,Learning English for Money！
 
-- [0x01-English资源]()
-- [0x02-English单词]()
-- [0x03-English语法]()
+This project was created on November 13, 2020, and the last update time was December 11, 2020.
 
-## 0x01-English资源
+- [0x01-English Resources]()
+- [0x02-English Word]()
+- [0x03-English Grammar]()
 
-一、基础入门：
+## 0x01-English Resources
+
+一、Getting started
 
 - [ ] https://github.com/xiaolai/everyone-can-use-english
 - [ ] https://github.com/byoungd/English-level-up-tips-for-Chinese
@@ -22,34 +24,28 @@
 - [ ] https://github.com/1eez/103976
 - [ ] https://github.com/Wei-Xia/most-frequent-technology-english-words
 
-二、视频教程：
+二、Video tutorial
 
 - [ ] https://github.com
 
-三、英文原著：
+三、English original
 
 - [ ] https://github.com
 
-四、实体书籍：
+四、Learning forum
 
 - [ ] https://github.com
 
-五、杂七杂八
+五、Other resources
 
 - [ ] https://github.com
 
-六、学习论坛
+## 0x02-English Word
+
+## 0x03-English Grammar
 
 - [ ] https://github.com
 
-## 0x02-English单词
+## 0x05-English Books
 
-## 0x03-English语法
-
-- [ ] https://github.com
-
-## 0x04-English听读
-
-## 0x05-English书籍
-
-## 0x06-English老师
+## 0x06-English Teacher
