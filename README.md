@@ -38,7 +38,7 @@ This project was created on November 13, 2020, and the last update time was Dece
 
 五、Other resources
 
-- [ ] https://github.com
+- [ ] https://github.com/jiangqizheng/BlueSea
 
 ## 0x02-English Word
 
